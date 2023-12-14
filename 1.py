@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('6034256644:AAE08XAUlHuS5RaqCLZCERCeitTWg03tjTU')
+bot = telebot.TeleBot('YOUR_TOKEN')
 
 students = {}  # Словарь для хранения логинов и оценок студентов
 teachers = {}  # Словарь для хранения кодов доступа преподавателей
